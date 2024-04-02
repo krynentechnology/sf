@@ -1,5 +1,5 @@
 # SF
-<h3>SF programming language</h3>
+<h3>The SF programming language</h3>
 
 <p>SF is an object oriented generic programming or hardware definition language for embedded purposes. The name SF was originally meant as an acronym for Structured Forth, but the SF syntax has no resemblance with the Forth programming language syntax and the name is just SF now without hinting to Forth. The SF compiler will be supported by an IDE named <b><i>Prime</i></b> which includes a code/design browser, simulator and (target) debugger. The 'structure' in the SF former name Structured Forth did not imply that Forth has no structure or does not offer structure but that the SF source code layout is forced (<i>like coding standard rules</i>) to improve readability and more modularity and clarity is offered by data structures, strong typing and object oriented techniques.</p>
 
